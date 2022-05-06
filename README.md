@@ -1,5 +1,4 @@
 # Project02BackEnd
-Project02
 Project 2 Description
 In this project we will be building an app mapping out our solar system. As well as each planets relative positions and giving their descriptions for each celestial body. This is designed to be an informative simulation type project that has a focus on user interactions.
 
